@@ -5,21 +5,18 @@
 
 <br>
 
-## 👋 About Me
+## About Me
 
 AI 모델을 서비스로 연결하고, 프론트엔드부터 백엔드와 클라우드 배포까지 직접 구현하는 개발자입니다.
 
-- 🎓 **숙명여자대학교 컴퓨터과학과** 졸업, **서울시립대학교 컴퓨터과학과 대학원** 재학/수료
-- 💼 현재 **IBM & Red Hat AI/AX 강사** 로 활동 중이며, 실무 개발자 경력과 다수 기업교육 및 대기업(선도기업) 강사로 활동했습니다
-- 🌱 관심 분야: **AI/AX(AI Transformation), 클라우드, 자동화**
-- 🛠 **React, Spring Boot, FastAPI, Android, Firebase, AWS, Docker** 기반 프로젝트 경험
-- 🚀 **GitHub Actions**와 **AWS**를 활용한 프론트엔드 배포 및 백엔드 서버 배포 경험
-- 🌍 영어 기반 전공 수업과 협업 환경에 익숙하며 **IELTS 6.0** 수준의 영어 역량 보유
-- 📫 연락처: **sjwsrh@naver.com**
+- **숙명여자대학교 컴퓨터과학과** 졸업, **서울시립대학교 컴퓨터과학과 대학원** 재학/수료
+- 현재 **IBM & Red Hat AI/AX 강사** 로 활동 중이며, 실무 개발자 경력과 다수 기업교육 및 대기업(선도기업) 강사로 활동했습니다
+- 관심 분야: **AI/AX(AI Transformation), 클라우드, 자동화**
+- 연락처: **sjwsrh@naver.com**
 
 <br>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **AI / Data**
 <p>
