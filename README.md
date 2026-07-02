@@ -1,21 +1,25 @@
 <!-- 타이핑 애니메이션 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2980B9&center=true&vCenter=true&width=600&lines=IBM+%26+Red+Hat+AI%2FAX+강사;AI+모델을+서비스로+연결하는+개발자;Welcome+to+my+GitHub!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2980B9&center=true&vCenter=true&width=600&lines=IBM%20%26%20Red%20Hat%20AI%2FAX%20%EA%B0%95%EC%82%AC;AI%20%EB%AA%A8%EB%8D%B8%EC%9D%84%20%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A1%9C%20%EC%97%B0%EA%B2%B0%ED%95%98%EB%8A%94%20%EA%B0%9C%EB%B0%9C%EC%9E%90;Welcome%20to%20my%20GitHub%21" />
 </p>
 
 <br>
 
-## About Me
+## 👋 About Me
 
-AI 모델을 서비스로 연결, 클라우드 배포 직접 구현하는 개발자입니다.
+AI 모델을 서비스로 연결하고, 프론트엔드부터 백엔드와 클라우드 배포까지 직접 구현하는 개발자입니다.
 
-- **숙명여자대학교 컴퓨터과학과**, **서울시립대학교 컴퓨터과학과 대학원** 
-- 현재 **IBM & Red Hat AI/AX 강사** 로 활동 중이며, 실무 개발자 경력과 다수 기업교육 및 대기업(선도기업) 강사로 활동했습니다
-- 관심 분야: **AI/AX(AI Transformation), 클라우드, 자동화**
-- 연락처: **sjwsrh@naver.com**
+- 🎓 **숙명여자대학교 컴퓨터과학과** 졸업, **서울시립대학교 컴퓨터과학과 대학원** 재학/수료
+- 💼 현재 **IBM & Red Hat AI/AX 강사** 로 활동 중이며, 실무 개발자 경력과 다수 기업교육 및 대기업(선도기업) 강사로 활동했습니다
+- 🌱 관심 분야: **AI/AX(AI Transformation), 클라우드, 자동화**
+- 🛠 **React, Spring Boot, FastAPI, Android, Firebase, AWS, Docker** 기반 프로젝트 경험
+- 🚀 **GitHub Actions**와 **AWS**를 활용한 프론트엔드 배포 및 백엔드 서버 배포 경험
+- 🌍 영어 기반 전공 수업과 협업 환경에 익숙하며 **IELTS 6.0** 수준의 영어 역량 보유
+- 📫 연락처: **sjwsrh@naver.com**
+
 <br>
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 **AI / Data**
 <p>
@@ -55,5 +59,3 @@ AI 모델을 서비스로 연결, 클라우드 배포 직접 구현하는 개발
 </p>
 
 <br>
-
-
