@@ -1,7 +1,4 @@
 <!-- 타이핑 애니메이션 -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2980B9&center=true&vCenter=true&width=600&lines=%EB%8B%A4%EC%88%98%20%EB%8C%80%EA%B8%B0%EC%97%85%20AI%2FAX%20%EA%B0%95%EC%82%AC;AI%20%EB%AA%A8%EB%8D%B8%EC%9D%84%20%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A1%9C%20%EC%97%B0%EA%B2%B0%ED%95%98%EB%8A%94%20%EA%B0%9C%EB%B0%9C%EC%9E%90;Welcome%20to%20my%20GitHub%21" />
-</p>
 
 <br>
 
